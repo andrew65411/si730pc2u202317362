@@ -1,0 +1,15 @@
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\bin\Debug\net8.0\Sales.Domain.deps.json
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\bin\Debug\net8.0\Sales.Domain.dll
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\bin\Debug\net8.0\Sales.Domain.pdb
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\bin\Debug\net8.0\Shared.Domain.dll
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\bin\Debug\net8.0\Shared.Domain.pdb
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\Sales.Domain.csproj.AssemblyReference.cache
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\Sales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\Sales.Domain.AssemblyInfoInputs.cache
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\Sales.Domain.AssemblyInfo.cs
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\Sales.Do.E71E80AB.Up2Date
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\Sales.Domain.dll
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\refint\Sales.Domain.dll
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\Sales.Domain.pdb
+C:\Users\goku6\OneDrive\Documentos\Development\riderproyects\si730pc2u202317362.API\Sales.Domain\obj\Debug\net8.0\ref\Sales.Domain.dll

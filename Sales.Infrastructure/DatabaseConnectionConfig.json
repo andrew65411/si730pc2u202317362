@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=hialpesa;User=root;Password=your_password;"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Sales.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Shared.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sales.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sales.Domain.dll": {}
+        }
+      },
+      "Shared.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Shared.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.Domain.dll": {}
+        }
+      },
+      "Shared.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Shared.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sales.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Sales.Domain/Sales.Domain.csproj",
+      "msbuildProject": "../Sales.Domain/Sales.Domain.csproj"
+    },
+    "Shared.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Shared.Domain/Shared.Domain.csproj",
+      "msbuildProject": "../Shared.Domain/Shared.Domain.csproj"
+    },
+    "Shared.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Shared.Infrastructure/Shared.Infrastructure.csproj",
+      "msbuildProject": "../Shared.Infrastructure/Shared.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Sales.Domain >= 1.0.0",
+      "Shared.Domain >= 1.0.0",
+      "Shared.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\goku6\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\goku6\\OneDrive\\Documentos\\Development\\riderproyects\\si730pc2u202317362.API\\Sales.Application\\Sales.Application.csproj",
+      "projectName": "Sales.Application",
+      "projectPath": "C:\\Users\\goku6\\OneDrive\\Documentos\\Development\\riderproyects\\si730pc2u202317362.API\\Sales.Application\\Sales.Application.csproj",
+      "packagesPath": "C:\\Users\\goku6\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\goku6\\OneDrive\\Documentos\\Development\\riderproyects\\si730pc2u202317362.API\\Sales.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\goku6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\goku6\\OneDrive\\Documentos\\Development\\riderproyects\\si730pc2u202317362.API\\Sales.Domain\\Sales.Domain.csproj": {
+              "projectPath": "C:\\Users\\goku6\\OneDrive\\Documentos\\Development\\riderproyects\\si730pc2u202317362.API\\Sales.Domain\\Sales.Domain.csproj"
+            },
+            "C:\\Users\\goku6\\OneDrive\\Documentos\\Development\\riderproyects\\si730pc2u202317362.API\\Shared.Domain\\Shared.Domain.csproj": {
+              "projectPath": "C:\\Users\\goku6\\OneDrive\\Documentos\\Development\\riderproyects\\si730pc2u202317362.API\\Shared.Domain\\Shared.Domain.csproj"
+            },
+            "C:\\Users\\goku6\\OneDrive\\Documentos\\Development\\riderproyects\\si730pc2u202317362.API\\Shared.Infrastructure\\Shared.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\goku6\\OneDrive\\Documentos\\Development\\riderproyects\\si730pc2u202317362.API\\Shared.Infrastructure\\Shared.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
